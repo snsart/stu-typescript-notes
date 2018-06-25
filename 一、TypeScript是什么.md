@@ -1,0 +1,5 @@
+
+# TypeScript是什么？
+
+TypeScript是javaScript的超集，也就是说javaScript本身也属于typeScript，typeScript经过编译器编译之后会生成javaScript代码。
+
